@@ -257,7 +257,7 @@ No. La masterclass explica el sistema completo en lenguaje simple.
 | 9 | Guiones de setter y closer + manejo de objeciones | Criver |
 | 10 | Lanzamiento + [30] días de optimización | Criver |
 
-### Cronograma: [DÍAS] día por día
+### Cronograma día por día ([DÍAS])
 
 *(Ejemplo para 14 días. Ajustar si `[DÍAS]` cambia.)*
 
@@ -273,7 +273,7 @@ No. La masterclass explica el sistema completo en lenguaje simple.
 | **Día 11** | **Ensayo de la masterclass** con feedback de nuestro equipo | 1 hora de ensayo |
 | **Día 12** | **QA completo**: pruebas de punta a punta (registro → recordatorios → agenda) | — |
 | **Día 13** | Capacitación a tu setter/closer con los guiones (o a ti, si cierras tú) | 1 hora |
-| **Día [DÍAS]** | **Lanzamiento**: campañas activas y primera masterclass agendada | 🚀 |
+| **Último día** | **Lanzamiento**: campañas activas y primera masterclass agendada | 🚀 |
 | **Día 15–[45]** | **Optimización** de anuncios, landing y secuencias según datos reales | Reunión semanal de 30 min |
 
 ### Garantía

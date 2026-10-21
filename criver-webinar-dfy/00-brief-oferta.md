@@ -7,7 +7,7 @@ Todos los guiones y mensajes de esta carpeta parten de este brief. Si cambias al
 | Variable | Valor por defecto | Nota |
 |---|---|---|
 | `[PRESENTADOR]` | Cristóbal | Quien graba los anuncios y da la masterclass |
-| `[DÍAS]` | 14 días | Plazo de instalación. Jason usa 14. Solo prométalo si el equipo lo cumple de verdad |
+| `[DÍAS]` | 14 días | Plazo de instalación, siempre con la palabra "días" incluida ("en [DÍAS]" = "en 14 días"). Jason usa 14. Solo prométalo si el equipo lo cumple de verdad |
 | `[PRECIO]` | — | Precio del servicio DFY |
 | `[INVERSIÓN MÍNIMA ADS]` | — | Presupuesto mínimo de pauta del cliente (aparte del fee) |
 | `[GARANTÍA]` | Ver opciones abajo | Definir por escrito, con condiciones claras |
@@ -15,6 +15,10 @@ Todos los guiones y mensajes de esta carpeta parten de este brief. Si cambias al
 | `[FECHA/HORA MASTERCLASS]` | — | Ej.: martes 19:00 (Chile) |
 | `[LINK REGISTRO] [LINK AGENDA] [LINK REPLAY]` | — | URLs del funnel |
 | `[CUPOS]` | — | Cuántos clientes nuevos puede tomar Criver por mes |
+
+Variables operativas que aparecen en mensajes y guiones de venta: `[LINK ZOOM]`, `[LINK CALENDARIO]`, `[LINK REAGENDAR]`, `[LINK LLAMADA]`, `[LINK PROPUESTA]`, `[FECHA/HORA LLAMADA]`, `[NOMBRE CLOSER]`, `[FECHA LÍMITE]`, `[BONO]`, `[PLAN DE PAGO]`, `[FECHA PRÓXIMA MASTERCLASS]`, `[VALOR]` (valor percibido de cada ítem del stack).
+
+Supuestos de trabajo que conviene revisar: replay disponible por 48 horas, llamada de diagnóstico de 20 minutos, masterclass de 45 minutos de contenido por Zoom, y umbral de calificación del setter de ticket USD 1.000 o más.
 
 ## La oferta en una línea
 

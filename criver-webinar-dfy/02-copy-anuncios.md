@@ -59,7 +59,7 @@ Jason repite el mismo núcleo de copy en sus 29 anuncios DFY (webinar, 14 days, 
 >
 > 📅 Primeros días: oferta y guion de tu masterclass
 > 📅 Después: landing, anuncios y secuencia de email + WhatsApp
-> 📅 Día [DÍAS]: tu masterclass recibiendo registros
+> 📅 Último día: tu masterclass recibiendo registros
 >
 > Tú solo te presentas a enseñar lo que ya sabes.
 >

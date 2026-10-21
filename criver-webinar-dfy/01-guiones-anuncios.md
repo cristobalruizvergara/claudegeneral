@@ -54,16 +54,16 @@ Jason lanzó su campaña DFY en dos tandas: 16 anuncios el 19 de octubre y 13 el
 **Hooks alternativos (0–3 s):**
 - A: "En [DÍAS] puedes tener tu webinar vendiendo. Sin que tú toques nada."
 - B: "Llevas meses diciendo 'este mes lanzo mi webinar'."
-- C: "Día 1: hablamos de tu oferta. Día [DÍAS]: tu masterclass está en vivo."
+- C: "Día 1: hablamos de tu oferta. Último día: tu masterclass está en vivo."
 
 | Tiempo | VISUAL | AUDIO |
 |---|---|---|
 | [0–3s] | Cámara frontal. Texto: **"[DÍAS]"** grande, en rojo | Hook |
 | [3–10s] | B-roll: un calendario con los días tachados | "El problema no es que no sepas qué hacer. Es que entre clientes, contenido y operación, el webinar siempre queda para el próximo mes." |
-| [10–28s] | Vuelta a cámara. Línea de tiempo animada: Días 1–3 Oferta · Días 4–7 Masterclass y landing · Días 8–11 Anuncios y mensajes · Días 12–[DÍAS] Lanzamiento | "Por eso lo hacemos por ti. Primeros días: tu oferta y tu guion. Después: landing, anuncios y la secuencia de email y WhatsApp. Y en el día [DÍAS] tu masterclass ya está recibiendo registros." |
+| [10–28s] | Vuelta a cámara. Línea de tiempo animada: Días 1–3 Oferta · Días 4–7 Masterclass y landing · Días 8–11 Anuncios y mensajes · Días 12 en adelante: Lanzamiento | "Por eso lo hacemos por ti. Primeros días: tu oferta y tu guion. Después: landing, anuncios y la secuencia de email y WhatsApp. Y al terminar los [DÍAS] tu masterclass ya está recibiendo registros." |
 | [28–40s] | Plano medio. Texto: **"Masterclass gratuita: [FECHA/HORA MASTERCLASS]"** | "Si quieres ver exactamente cómo funciona, este [FECHA/HORA MASTERCLASS] hago una masterclass en vivo donde te muestro el sistema completo. Regístrate en el botón; es gratis." |
 
-**Texto en pantalla sugerido:** "[DÍAS] días" → "Hecho por Criver" → "Masterclass gratis ↓"
+**Texto en pantalla sugerido:** "[DÍAS]" → "Hecho por Criver" → "Masterclass gratis ↓"
 
 **CTA final:** "Toca 'Registrarte'."
 
