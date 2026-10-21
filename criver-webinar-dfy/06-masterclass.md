@@ -624,3 +624,399 @@ Recapitulemos los tres secretos. Uno, la masterclass es el mejor vehículo para 
 Ahora, quiero hacerte una pregunta importante."
 
 ---
+
+## Bloque 7 · Transición: ¿lo haces tú o lo hacemos nosotros? (45–50 min)
+
+### Diapositiva 44: «Ahora sabes QUÉ hacer. La pregunta es CÓMO.»
+
+**Qué dices:**
+
+"Ahora ya sabes qué hay que hacer. Sabes que necesitas una masterclass, sabes que no necesitas ser influencer y sabes que necesitas una máquina de asistencia.
+
+La pregunta ahora es cómo lo haces. Y aquí, en general, hay tres caminos. Te los voy a mostrar con total honestidad, con lo bueno y lo malo de cada uno, y tú decides cuál te conviene."
+
+### Diapositiva 45: «Camino 1: hacerlo solo»
+
+Texto en pantalla: «Costo: tu tiempo · Plazo: meses · Riesgo: alto»
+
+**Qué dices:**
+
+"Camino número uno: hacerlo solo. Tomas todo lo que vimos hoy y lo armas tú. Escribes el guion de la masterclass, diseñas las diapositivas, armas la landing, escribes los correos y los WhatsApp, conectas las automatizaciones, configuras el pixel, haces los anuncios, los editas, los lanzas, los optimizas.
+
+Lo bueno: es lo más barato en plata. Lo malo: es lo más caro en tiempo. Si nunca lo has hecho, te va a tomar meses. Y mientras aprendes, vas a cometer errores que cuestan plata en anuncios. Y lo más importante: cada hora que pasas peleando con una automatización es una hora que no pasas atendiendo clientes ni vendiendo.
+
+Si tienes más tiempo que plata y te gusta aprender, este camino es perfectamente válido. Y todo lo que te mostré hoy te sirve como mapa."
+
+### Diapositiva 46: «Camino 2: comprar un curso»
+
+Texto en pantalla: «Costo: medio · Plazo: meses · Riesgo: medio-alto · Lo sigues haciendo tú»
+
+**Qué dices:**
+
+"Camino número dos: comprar un curso o un programa que te enseñe a hacerlo. Hay muchos, y algunos son muy buenos.
+
+Lo bueno: te ahorra parte de la curva de aprendizaje, porque alguien ya te ordena el camino. Lo malo: lo sigues haciendo tú. El curso te enseña, pero no te arma la landing, no te escribe los correos, no te configura el pixel. Y la verdad es que la mayoría de la gente que compra un curso de funnels no lo termina. No porque sean flojos, sino porque tienen un negocio que atender y el curso queda para 'cuando tenga tiempo'.
+
+¿Cuántos de ustedes tienen un curso comprado que nunca terminaron? Escribe 'yo' en el chat. [Pausa, ríete.] Sí, yo también tengo varios."
+
+### Diapositiva 47: «Camino 3: que lo hagan por ti (Done For You)»
+
+Texto en pantalla: «Costo: inversión · Plazo: [DÍAS] · Riesgo: bajo · Tú solo atiendes las llamadas»
+
+**Qué dices:**
+
+"Camino número tres: que lo hagan por ti. Un equipo que ya lo ha hecho muchas veces construye todo el sistema, de principio a fin, y tú te dedicas a dar la masterclass y atender las llamadas.
+
+Lo malo: requiere una inversión mayor que hacerlo solo o comprar un curso. Lo bueno: es lo más rápido, porque en vez de meses estamos hablando de [DÍAS]. Es lo de menor riesgo, porque lo hace gente que ya cometió los errores por ti. Y no te quita tiempo de tu negocio.
+
+Ninguno de los tres caminos es mejor en abstracto. Depende de lo que tengas más: tiempo o recursos. Si tienes más tiempo que recursos, el camino uno o dos. Si tienes más recursos que tiempo y quieres resultados rápido, el camino tres."
+
+### Diapositiva 48: «Comparación»
+
+Texto en pantalla:
+
+| | Solo | Curso | Done For You |
+|---|---|---|---|
+| ¿Quién lo construye? | Tú | Tú (con guía) | Criver |
+| Plazo para lanzar | Meses | Meses | [DÍAS] |
+| Tu tiempo | Muchísimo | Mucho | 1 h/semana + llamadas |
+| Errores en ads | Los pagas tú | Los pagas tú | Ya los cometimos |
+| Máquina de asistencia | La armas tú | La armas tú | Incluida |
+| Garantía | No | Depende | [GARANTÍA] |
+
+**Qué dices:**
+
+"Aquí lo ves lado a lado. Y la pregunta que quiero que te hagas es simple: ¿cuánto te cuesta cada mes que pasa sin tener esto funcionando? No en plata solamente. En agenda vacía, en estrés, en depender de que lleguen referidos.
+
+Escribe en el chat: ¿uno, dos o tres? ¿Qué camino te hace más sentido hoy? No hay respuesta incorrecta. [Pausa, lee respuestas.]"
+
+### Diapositiva 49: «Para quienes eligieron el camino 3…»
+
+**Qué dices:**
+
+"Para quienes eligieron el uno o el dos: gracias por estar aquí, de verdad. Todo lo que vimos hoy es tuyo, úsalo. Y si en algún momento quieres acelerar, ya sabes dónde estamos.
+
+Para quienes eligieron el tres, o los que están pensando 'me encantaría, pero quiero saber cómo funciona', déjenme mostrarles exactamente qué hacemos en Criver. Son cinco minutos y después abrimos preguntas."
+
+---
+
+## Bloque 8 · Stack de la oferta (50–61 min)
+
+### Diapositiva 50: «Webinar Funnel DFY by Criver»
+
+Texto en pantalla: «Instalamos tu webinar funnel completo en [DÍAS]. Lo hacemos nosotros, no tú.»
+
+**Qué dices:**
+
+"Esto es el Webinar Funnel DFY de Criver. La idea es simple: instalamos tu webinar funnel completo en [DÍAS]. La oferta, la masterclass, la landing, los anuncios, los emails y los WhatsApp. Para que tu agenda se llene de llamadas con gente que ya te vio en vivo y llega lista para comprar. Lo hacemos nosotros, no tú.
+
+Te muestro qué incluye, pieza por pieza."
+
+### Diapositiva 51: «1. Workshop de oferta y posicionamiento» · Valor: [VALOR]
+
+**Qué dices:**
+
+"Uno: un workshop de oferta y posicionamiento de noventa minutos. Antes de construir cualquier cosa, nos sentamos contigo y definimos qué vendes, a quién, a qué precio y con qué garantía. Porque si la oferta no está clara, no hay anuncio que la salve. Esto solo tiene un valor de [VALOR]."
+
+### Diapositiva 52: «2. Guion completo de tu masterclass + diapositivas» · Valor: [VALOR]
+
+**Qué dices:**
+
+"Dos: el guion completo de tu masterclass, más las diapositivas. Con la misma estructura que estás viendo hoy: apertura, historia, los tres secretos, transición y oferta. Escrito palabra por palabra, para que tú solo tengas que leerlo con tu estilo. Esto responde al 'no soy bueno en cámara'. Valor: [VALOR]."
+
+### Diapositiva 53: «3. Landing de registro + página de gracias + página de agenda» · Valor: [VALOR]
+
+**Qué dices:**
+
+"Tres: las páginas. La landing de registro, la página de gracias que compromete, la del video que te conté, y la página de aplicación y agenda para que la gente reserve su llamada después de la masterclass. Diseñadas, escritas y conectadas. Valor: [VALOR]."
+
+### Diapositiva 54: «4. Anuncios: guiones + edición de 10+ creativos» · Valor: [VALOR]
+
+**Qué dices:**
+
+"Cuatro: los anuncios. Escribimos los guiones, tú grabas siguiendo nuestras indicaciones, o te ayudamos a grabar, y nosotros editamos al menos diez creativos, entre video e imagen. ¿Por qué diez? Porque nadie sabe cuál anuncio va a funcionar antes de probarlo. La única forma de encontrar el ganador es probar varios ángulos. Valor: [VALOR]."
+
+### Diapositiva 55: «5. Campañas de Meta Ads configuradas (Pixel + API de Conversiones)» · Valor: [VALOR]
+
+**Qué dices:**
+
+"Cinco: configuramos tus campañas en Meta. Estructura de campañas, públicos, y, muy importante, el pixel y la API de conversiones bien instalados, para que Meta sepa quién se registra, quién asiste y quién agenda, y optimice para encontrar más gente así. Esto es algo que la mayoría hace mal y es la razón por la que muchos anuncios traen gente que no califica. Valor: [VALOR]."
+
+### Diapositiva 56: «6. Máquina de asistencia: email + WhatsApp + SMS» · Valor: [VALOR]
+
+**Qué dices:**
+
+"Seis: la máquina de asistencia completa. Todos los correos, todos los WhatsApp y todos los SMS que vimos en el secreto número tres, escritos para tu negocio y automatizados. Esta es la pieza que hace que la gente llegue. Valor: [VALOR]."
+
+### Diapositiva 57: «7. Secuencia de venta post-webinar» · Valor: [VALOR]
+
+**Qué dices:**
+
+"Siete: la secuencia post-webinar. Porque no todos agendan el mismo día. Hay gente que necesita ver la grabación, pensarlo, conversarlo con su pareja o su socio. Esta secuencia de replay, correos y WhatsApp sigue trabajando por ti durante los días siguientes y recupera ventas que de otra forma se perderían. Valor: [VALOR]."
+
+### Diapositiva 58: «8. CRM + automatizaciones + dashboard de KPIs» · Valor: [VALOR]
+
+**Qué dices:**
+
+"Ocho: el CRM, las automatizaciones y un dashboard de indicadores. Vas a poder ver, en un solo lugar, cuánta gente se registró, cuántos llegaron, cuántos agendaron, cuántos cerraron y cuánto te costó cada uno. Sin planillas, sin adivinar. Valor: [VALOR]."
+
+### Diapositiva 59: «9. Guiones de setter y closer + manejo de objeciones» · Valor: [VALOR]
+
+**Qué dices:**
+
+"Nueve: los guiones de venta. El guion para la llamada corta de calificación, si tienes setter, y el guion para la llamada de cierre, con las objeciones más comunes y cómo responderlas. Porque de nada sirve llenar la agenda si después la llamada no cierra. Valor: [VALOR]."
+
+### Diapositiva 60: «10. Lanzamiento + [30] días de optimización» · Valor: [VALOR]
+
+**Qué dices:**
+
+"Y diez: no te entregamos el sistema y desaparecemos. Lanzamos contigo y optimizamos durante [30] días: anuncios, páginas, mensajes, todo lo que haya que ajustar según los números reales. Valor: [VALOR].
+
+[Pausa.] Entonces, recapitulemos todo lo que incluye."
+
+### Diapositiva 61: «El stack completo»
+
+Texto en pantalla:
+
+| Incluye | Valor |
+|---|---|
+| 1. Workshop de oferta y posicionamiento | [VALOR] |
+| 2. Guion de masterclass + diapositivas | [VALOR] |
+| 3. Landing + página de gracias + página de agenda | [VALOR] |
+| 4. Guiones + edición de 10+ creativos | [VALOR] |
+| 5. Campañas Meta (Pixel + API de Conversiones) | [VALOR] |
+| 6. Máquina de asistencia (email + WhatsApp + SMS) | [VALOR] |
+| 7. Secuencia post-webinar | [VALOR] |
+| 8. CRM + automatizaciones + dashboard | [VALOR] |
+| 9. Guiones setter/closer + objeciones | [VALOR] |
+| 10. Lanzamiento + [30] días de optimización | [VALOR] |
+| **Valor total** | **[VALOR TOTAL]** |
+| **Tu inversión** | **[PRECIO]** |
+
+**Qué dices:**
+
+"Este es el sistema completo. Si contrataras cada una de estas piezas por separado, a un estratega de oferta, a un copywriter, a un diseñador, a un editor de video, a un trafficker, a alguien que te arme las automatizaciones, el valor total sería de [VALOR TOTAL]. Y además tendrías que coordinarlos tú, que es justamente lo que no quieres hacer.
+
+Tu inversión para tener todo esto funcionando es de [PRECIO]. [Si aplica: 'Y lo puedes hacer en [PLAN DE PAGO]'.]
+
+Y ojo con algo: la inversión en anuncios es aparte. La pauta la pagas directamente a Meta, con tu tarjeta, y recomendamos partir con al menos [INVERSIÓN MÍNIMA ADS]. Te lo digo claro desde ahora porque no me gustan las sorpresas."
+
+> **Nota:** el [VALOR] de cada ítem debe ser defendible (lo que costaría contratarlo por separado en el mercado). No inflar. Si no hay un valor creíble, quitar la columna y presentar solo el stack.
+
+---
+
+## Bloque 9 · Garantía, escasez, bonos y cierre (61–66 min)
+
+### Diapositiva 62: «Garantía»
+
+Texto en pantalla: «[GARANTÍA]» (redactada en una sola frase + condiciones visibles abajo)
+
+**Qué dices** (ejemplo con la opción C del brief; adaptar a la garantía elegida):
+
+"Y quiero quitarte el riesgo. Esta es nuestra garantía: [GARANTÍA]. Por ejemplo, si eliges la de desempeño: si en [30] días, con la inversión mínima en anuncios, no llegas a [N] llamadas calificadas, seguimos optimizando sin costo adicional hasta que lo logres.
+
+Y las condiciones son estas, en simple: [COMPLETAR: condiciones. Ej.: invertir al menos [INVERSIÓN MÍNIMA ADS], dar la masterclass en vivo cada semana, aprobar los materiales en menos de 48 horas, atender las llamadas agendadas]. Nada escondido en letra chica. Te las mandamos por escrito antes de que pagues.
+
+¿Por qué podemos dar esta garantía? Porque si hacemos bien nuestro trabajo, tú te quedas con nosotros y nos recomiendas. Nuestro negocio depende de que tu sistema funcione."
+
+### Diapositiva 63: «Cupos limitados (de verdad)»
+
+Texto en pantalla: «Tomamos solo [CUPOS] clientes nuevos por mes.»
+
+**Qué dices:**
+
+"Ahora, algo importante. Tomamos solo [CUPOS] clientes nuevos por mes. No es una estrategia de marketing. Es que construir un sistema completo en [DÍAS] requiere un equipo dedicado, y no podemos clonarnos. Si tomamos más, la calidad baja y los plazos se alargan, y eso no lo vamos a hacer.
+
+Para [MES], nos quedan [COMPLETAR: cupos reales disponibles]. Cuando se llenan, abrimos la lista para el mes siguiente."
+
+> **Nota:** decir solo el número real de cupos. Si quedan muchos, no mencionar la cantidad; mencionar solo el límite mensual.
+
+### Diapositiva 64: «Bonos por agendar hoy»
+
+Texto en pantalla:
+- Bono en vivo: [BONO EN VIVO]
+- Bono por agendar antes de [FECHA/HORA LÍMITE]: [BONO DE ACCIÓN RÁPIDA]
+
+**Qué dices:**
+
+"Y como te prometí, tengo un bono para quienes están aquí en vivo. Si agendas tu llamada hoy, antes de [FECHA/HORA LÍMITE], te llevas [BONO EN VIVO]. Y además [BONO DE ACCIÓN RÁPIDA: ej., un segundo set de 5 creativos, la configuración de un segundo canal, una sesión extra de optimización].
+
+Estos bonos son solo para quienes agendan antes de [FECHA/HORA LÍMITE]. Después de eso, la oferta sigue disponible, pero sin los bonos."
+
+### Diapositiva 65: «Cómo es la llamada»
+
+Texto en pantalla:
+1. Revisamos tu oferta actual y tu cliente ideal
+2. Vemos tus números: cuánto vendes hoy y cuánto quieres vender
+3. Te decimos con honestidad si el sistema te sirve o no
+4. Si calzamos, te explicamos los próximos pasos
+
+**Qué dices:**
+
+"Te cuento cómo es la llamada, para que sepas qué esperar. Es una llamada de [30–45] minutos con alguien de mi equipo [o conmigo].
+
+Primero revisamos tu oferta actual y quién es tu cliente ideal. Después vemos tus números: cuánto estás vendiendo hoy y adónde quieres llegar. Tercero, te decimos con total honestidad si este sistema te sirve o no. Y si no te sirve, te lo vamos a decir. Ya hemos dicho que no a gente para la que no era el momento, porque un cliente al que no le funciona es un problema para los dos. Y cuarto, si calzamos, te explicamos los próximos pasos.
+
+No es una llamada de presión. Es una conversación para ver si tiene sentido trabajar juntos."
+
+### Diapositiva 66: «Agenda tu llamada ahora: [LINK AGENDA]»
+
+**Qué dices** (CTA #1):
+
+"Entonces, si quieres que construyamos tu webinar funnel en [DÍAS], el siguiente paso es agendar tu llamada. El link está en el chat: [LINK AGENDA]. Mi equipo lo está pegando ahora mismo.
+
+Entra, elige el horario que te acomode y responde un par de preguntas cortas para que lleguemos preparados a la llamada. Te toma dos minutos.
+
+Si ya agendaste, escribe 'listo' en el chat para que mi equipo te confirme."
+
+> **Moderador:** pega el link de agenda (mensaje 6) y repítelo cada 2–3 minutos durante el cierre y el Q&A.
+
+### Diapositiva 67: «¿Qué pasa después?»
+
+Texto en pantalla:
+- Hoy: agendas tu llamada
+- Llamada: vemos si calzamos
+- Día 1: workshop de oferta
+- Días 2 a [DÍAS]: construimos todo
+- Último día: lanzamos tu primera masterclass
+
+**Qué dices** (CTA #2):
+
+"Mira lo que pasa después de que agendas. Hoy agendas. En la llamada vemos si calzamos. Si avanzamos, el día uno hacemos el workshop de oferta. Desde el día dos hasta el penúltimo día construimos todo: guion, páginas, anuncios, máquina de asistencia, CRM. Y el último día lanzamos tu primera masterclass.
+
+Imagina eso: en [DÍAS] tú podrías estar del otro lado de una pantalla como esta, con tu propia sala llena de gente que te eligió para escucharte. Y al día siguiente, con la agenda llena de llamadas con gente que ya te conoce.
+
+El link sigue en el chat: [LINK AGENDA]."
+
+**CTA #3** (después de 2–3 preguntas del Q&A, repetir):
+
+"Veo que varios ya agendaron, muy bien. Si todavía no lo has hecho y te quedan dudas, la mejor forma de resolverlas es en la llamada, porque ahí vemos tu caso específico. [LINK AGENDA]. Recuerda que los bonos son solo hasta [FECHA/HORA LÍMITE]."
+
+---
+
+## Bloque 10 · Preguntas y respuestas (66–80 min)
+
+### Diapositiva 68: «Preguntas» (con el link de agenda visible en pantalla todo el rato)
+
+**Qué dices** (abre el Q&A):
+
+"Ahora abramos preguntas. Escríbanlas en el chat y voy respondiendo. Mientras tanto, el link para agendar sigue ahí: [LINK AGENDA]."
+
+> **Moderador:** si no hay preguntas al principio, "siembra" una de esta lista ("Me preguntaron antes de la masterclass…"). Prioriza las preguntas que son objeciones de compra.
+
+**1. "¿Cuánto cuesta?" / "¿Por qué tan caro?"**
+
+"La inversión es de [PRECIO], más la pauta, que la pagas directo a Meta. ¿Es una inversión importante? Sí. Pero hagamos la cuenta al revés: ¿cuánto vale un cliente para ti? Si vendes un programa de [TICKET PROMEDIO DEL PROSPECTO], ¿cuántos clientes necesitas para recuperar la inversión? Esa cuenta la hacemos juntos en la llamada con tus números reales. Y si no da, te lo vamos a decir."
+
+**2. "No tengo tiempo."**
+
+"Justamente por eso existe el camino tres. Lo que necesitamos de ti es el workshop de noventa minutos, unas horas para grabar los anuncios con nuestro guion y revisar los materiales, y después una hora a la semana para la masterclass. Todo lo demás lo hacemos nosotros. Si no tienes tiempo para eso, el problema no es el sistema, es que tu agenda ya está llena, y en ese caso ¡felicitaciones!"
+
+**3. "Mi nicho es distinto, no sé si funciona para mí."**
+
+"Es la pregunta que más me hacen, y la entiendo. La masterclass funciona para cualquier negocio que cumpla tres condiciones: vendes algo de alto valor, lo cierras por llamada y tienes un cliente ideal al que se puede llegar con anuncios. Si cumples las tres, el nicho importa menos de lo que crees. Lo que cambia es el contenido y el ángulo, y eso lo definimos en el workshop. Si no cumples alguna, en la llamada te lo decimos."
+
+**4. "Ya me fue mal con una agencia."**
+
+"Lamentablemente es súper común, y por eso te lo pregunto de vuelta: ¿qué te hicieron? Normalmente la historia es: 'me trajeron leads, pero eran malos'. Y eso pasa porque la agencia solo hizo anuncios a un formulario. No construyó la masterclass que pre-califica, ni la máquina de asistencia, ni conectó el pixel para optimizar por llamadas calificadas. Nosotros construimos el sistema completo, no solo los anuncios. Y por eso podemos dar una garantía clara y por escrito: [GARANTÍA]."
+
+**5. "¿Y si nadie se registra?"**
+
+"Para eso probamos al menos diez creativos y optimizamos durante [30] días. Los primeros días son de aprendizaje: vemos qué anuncios traen registros al mejor costo y cortamos los que no. Además, el workshop de oferta existe precisamente para que tu promesa sea atractiva antes de gastar un peso en anuncios. Y si con la inversión mínima no se cumple [GARANTÍA], aplica la garantía."
+
+**6. "¿Y si se registran pero no llegan?"**
+
+"Eso es exactamente lo que resuelve la máquina de asistencia del secreto tres: página de gracias con video, emails, WhatsApp, SMS y una razón para llegar en vivo. Es la parte que más trabajamos, porque es la que más impacto tiene."
+
+**7. "¿Tengo que salir en cámara?"**
+
+"Sí, para la masterclass recomendamos que salgas tú, porque la gente le compra a personas. Pero no tienes que ser bueno en cámara: tienes un guion escrito palabra por palabra y lo vas a hacer una vez a la semana. Para los anuncios también ayuda que salgas tú, pero podemos combinar con formatos de imagen, texto en pantalla o testimonios."
+
+**8. "¿Cuánto tengo que invertir en anuncios?"**
+
+"Recomendamos partir con un mínimo de [INVERSIÓN MÍNIMA ADS]. Menos que eso hace que Meta tarde mucho en aprender y los resultados se demoran. La pauta la pagas tú directo a Meta, con tu tarjeta, así que tienes control total y ves cada peso. En la llamada te ayudamos a calcular cuánto tiene sentido para tu ticket y tus metas."
+
+**9. "¿Cuánto tiempo hasta ver resultados?"**
+
+"El sistema queda instalado en [DÍAS]. Los primeros registros llegan apenas encendemos los anuncios. La primera masterclass la das al final de ese periodo y las primeras llamadas llegan después de esa masterclass. Lo que no te puedo prometer es cuántas ventas vas a hacer, porque eso depende también de tu oferta y de cómo cierres las llamadas. Por eso incluimos los guiones de venta."
+
+**10. "¿Qué pasa después de los [30] días?"**
+
+"El sistema es tuyo: las páginas, los anuncios, los correos, el CRM, todo queda en tus cuentas. Puedes seguir corriéndolo tú o con tu equipo, o puedes seguir con nosotros en un plan de gestión mensual [COMPLETAR: si existe ese plan y su precio]. No te amarramos."
+
+**11. "¿Puedo hacerlo con mi equipo / mi agencia actual?"**
+
+"Sí. Si ya tienes alguien que maneja tus anuncios, podemos construir el sistema y entregárselo, o trabajar en conjunto. Lo vemos en la llamada."
+
+**12. "Necesito pensarlo."**
+
+"Totalmente válido. Es una decisión importante. Lo que te sugiero es que agendes la llamada igual: no tienes que decidir nada en ella. Es justamente el espacio para pensarlo con información real, con tus números y tus dudas resueltas. Y si al final decides que no, perfecto, te llevas un diagnóstico gratis de tu oferta. Lo único que pierdes si no agendas hoy son los bonos, que vencen [FECHA/HORA LÍMITE]."
+
+### Cierre final
+
+**Qué dices:**
+
+"Bueno, vamos llegando al final. Primero, gracias de verdad por estar aquí en vivo. Espero que hoy te hayas llevado claridad sobre por qué una masterclass es el mejor vehículo para tu negocio, por qué no necesitas ser influencer ni técnico, y cómo hacer que la gente sí llegue.
+
+Si quieres que lo construyamos por ti, el link está en el chat: [LINK AGENDA]. Los bonos son hasta [FECHA/HORA LÍMITE]. Y si decides hacerlo solo, te deseo todo el éxito: tienes el mapa completo.
+
+Nos vemos en la llamada. ¡Un abrazo!"
+
+---
+
+## Checklist técnico del live
+
+### 24 horas antes
+- [ ] Zoom configurado: sala de espera desactivada (o automática), chat abierto a "todos", grabación en la nube activada, nombre del evento correcto.
+- [ ] Encuesta del bloque 1 cargada en Zoom (A/B/C/D).
+- [ ] Diapositivas finales con [LINK AGENDA] visible en las diapositivas 66–68.
+- [ ] Link de agenda probado de punta a punta (formulario → calendario → confirmación → aviso en el CRM).
+- [ ] Bono en vivo listo para entregar (archivo, link o proceso).
+- [ ] Máquina de asistencia revisada: confirmar que los envíos de 24 h, mañana, 1 h, 15 min y "en vivo" están programados con el link correcto de Zoom.
+
+### 1 hora antes
+- [ ] Internet por cable (o el mejor wifi disponible) y plan B con datos del celular.
+- [ ] Luz frontal, cámara a la altura de los ojos, fondo ordenado, micrófono externo probado.
+- [ ] Notificaciones del computador y del celular en silencio.
+- [ ] Moderador conectado como coanfitrión, con los mensajes de chat listos en un documento.
+- [ ] Prueba de compartir pantalla con audio (si hay video en las diapositivas).
+
+### Durante
+- [ ] Presentador entra 5 minutos antes (sala de espera).
+- [ ] Moderador saluda por nombre, pega mensajes en los momentos marcados, lanza la encuesta en la diapositiva 8, filtra preguntas para el Q&A.
+- [ ] Moderador avisa por chat privado al presentador si se cae el audio o la pantalla.
+- [ ] Moderador lleva el conteo de agendas en vivo para que el presentador las mencione ("ya agendaron 3 personas").
+
+### Después
+- [ ] Descargar la grabación y subir el replay a [LINK REPLAY] en menos de 2 horas.
+- [ ] Exportar la lista de asistentes y no asistentes de Zoom al CRM (para la secuencia post-webinar correcta).
+- [ ] Registrar KPIs: registrados, asistentes, asistencia máxima simultánea, permanencia hasta la oferta, agendas, costo por registro, costo por asistente, costo por agenda.
+- [ ] Anotar las preguntas nuevas del Q&A para mejorar el guion y los anuncios.
+
+## Mensajes de chat preparados (para el moderador)
+
+1. **Bienvenida (sala de espera):** "¡Bienvenidos! 👋 Escribe desde qué país nos ves y a qué te dedicas. Partimos a las [HORA] en punto."
+2. **Al empezar:** "Tip: si estás en el celular, pásate al computador para ver bien las diapositivas. Ten a mano algo para anotar ✍️"
+3. **Diapositiva 7 (bono):** "🎁 Recuerda: hay un bono solo para quienes están en vivo. [PRESENTADOR] te cuenta cómo obtenerlo al final. ¡No te vayas!"
+4. **Diapositiva 8 (encuesta):** "Responde la encuesta o escribe tu letra: A) Nunca he hecho un webinar, B) Hice uno y no funcionó, C) Tengo uno y quiero mejorarlo, D) Estoy explorando"
+5. **Diapositiva 38 (máquina de asistencia):** "Si quieres que te mostremos cómo se vería la máquina de asistencia para tu negocio, quédate hasta el final 👀"
+6. **Diapositiva 66 (CTA):** "📅 Agenda tu llamada aquí: [LINK AGENDA]. Toma 2 minutos. Bonos válidos hasta [FECHA/HORA LÍMITE]."
+7. **Cada 2–3 minutos durante el cierre y el Q&A:** "Ya agendaron [N] personas 🙌 Si quieres tu llamada: [LINK AGENDA]"
+8. **Después de agendar:** "¡Gracias, [NOMBRE]! Te llegará la confirmación por correo y WhatsApp. Responde las preguntas del formulario para que lleguemos preparados."
+9. **Antes de terminar:** "Último aviso: los bonos vencen [FECHA/HORA LÍMITE] ⏰ [LINK AGENDA]"
+
+---
+
+## Versión evergreen (grabada) — cambios necesarios
+
+Úsala cuando la masterclass en vivo ya esté afinada (después de varias ediciones con buena conversión) y quieras tener una versión disponible a toda hora o como replay permanente.
+
+1. **Duración:** recortar a 40–50 min. Eliminar las pausas de chat y la sala de espera. Mantener los tres secretos y el stack completos.
+2. **Interacción:** reemplazar "escribe en el chat" por preguntas retóricas ("Piensa un segundo: ¿cuál de las dos llamadas prefieres?"). Quitar la encuesta en vivo o reemplazarla por una pregunta en pantalla.
+3. **Saludo y referencias en vivo:** eliminar "son las [HORA]", nombres de asistentes y "veo hartas B". Usar "si estás viendo esto…".
+4. **Bono en vivo → bono por acción rápida:** "Si agendas en las próximas 48 horas después de ver esta clase, te llevas [BONO]". Debe estar respaldado por una automatización real que cuente esas 48 horas desde el registro. No usar contadores falsos.
+5. **Escasez:** mantener solo el límite mensual real de [CUPOS]. No decir "quedan X cupos" en un video que se verá durante semanas, a menos que la página muestre el número real actualizado.
+6. **Q&A:** convertirlo en una sección de "Preguntas frecuentes" al final del video con 5–6 de las 12 respuestas (precio, tiempo, nicho, agencia previa, cámara, inversión en ads), y dejar las demás en la página de agenda.
+7. **CTA:** botón de agenda debajo del video que aparezca en el minuto de la oferta (diapositiva 50), más el link en la descripción. Repetir el CTA verbal 3 veces, igual que en vivo.
+8. **Transparencia:** indicar en la página de registro que es una clase grabada ("clase a pedido"), no presentarla como "en vivo". Meta y los usuarios penalizan los falsos "en vivo".
+9. **Secuencia:** usar la misma máquina de asistencia, pero con horarios dinámicos (la persona elige "ver ahora" o un horario dentro de las próximas 24 h) y mantener los recordatorios de WhatsApp.
